@@ -3,8 +3,10 @@
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
-splinter - python tool for test web applications
+wood-splinter - python tool for test web applications (splinter fork)
 ++++++++++++++++++++++++++++++++++++++++++++++++
+
+wood-splinter is a fork of splinter.
 
 splinter is a tool for test web applications with a simple for find elements, form actions, and others browser actions.
 

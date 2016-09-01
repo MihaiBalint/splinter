@@ -10,13 +10,13 @@ import codecs
 README = codecs.open('README.rst', encoding='utf-8').read()
 
 setup(
-    name='splinter',
+    name='wood-splinter',
     version='0.7.4',
-    url='https://github.com/cobrateam/splinter',
+    url='https://github.com/MihaiBalint/splinter',
     description='browser abstraction for web acceptance testing',
     long_description=README,
-    author='CobraTeam',
-    author_email='andrewsmedina@gmail.com',
+    author='MihaiBalint',
+    author_email='balint.mihai@gmail.com',
     classifiers=[
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 3',
