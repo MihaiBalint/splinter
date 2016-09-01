@@ -5,4 +5,4 @@
 from splinter.browser import Browser
 
 
-__version__ = 'cat VERSION'
+__version__ = '0.7.5'
