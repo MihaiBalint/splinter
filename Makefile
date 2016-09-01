@@ -23,7 +23,7 @@ release:
 	@git commit -m "setup: bump to $(version)"
 	@git tag $(version)
 	@git push --tags
-	@git push origin master
+	@git push origin release
 	@python setup.py sdist upload
 
 which = 'tests'
