@@ -11,7 +11,7 @@ README = codecs.open('README.rst', encoding='utf-8').read()
 
 setup(
     name='wood-splinter',
-    version='0.7.4',
+    version='cat VERSION',
     url='https://github.com/MihaiBalint/splinter',
     description='browser abstraction for web acceptance testing',
     long_description=README,
